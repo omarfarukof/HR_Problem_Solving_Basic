@@ -1,5 +1,5 @@
 #!/usr/bin/env -S uv run
-import pytest
+import pytest # noqa: F401
 import subprocess
 import os
 import pycpptest
